@@ -110,6 +110,11 @@ export const Icons = (): React.ReactElement => {
     'unlocked',
     'userEdit',
     'wallet',
+    'addressbookAura',
+    'assestAura',
+    'coinAura',
+    'transactionsAura',
+    'settingsAura',
   ];
 
   return (

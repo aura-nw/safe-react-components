@@ -80,6 +80,11 @@ import transactionsInactive from './images/transactionsInactive';
 import unlocked from './images/unlocked';
 import userEdit from './images/userEdit';
 import wallet from './images/wallet';
+import addressbookAura from './images/addressbookAura';
+import assestAura from './images/assestAura';
+import coinAura from './images/coinAura';
+import settingsAura from './images/settingsAura';
+import transactionsAura from './images/transactionsAura';
 
 import { ThemeColors, ThemeIconSize } from '../../theme';
 
@@ -99,7 +104,12 @@ const StyledIcon = styled.span<{ color?: ThemeColors }>`
 
 const icons = {
   add,
+  addressbookAura,
+  assestAura,
+  coinAura,
   addressBook,
+  settingsAura,
+  transactionsAura,
   addressBookAdd,
   alert,
   allowances,
