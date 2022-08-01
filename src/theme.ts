@@ -36,6 +36,7 @@ const theme = {
     inputDisabled: '#DADADA',
     inputDefault: '#B2BBC0',
     inputFilled: '#566976',
+    disableAura: '#98989B',
 
     disabled: {
       opacity: 0.5,
