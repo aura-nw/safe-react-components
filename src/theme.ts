@@ -20,7 +20,7 @@ const theme = {
 
     text: '#001428',
     icon: '#B2B5B2',
-    placeHolder: '#5D6D74',
+    placeHolder: '98989B',
     inputField: '#F0EFEE',
 
     separator: '#E8E7E6',
