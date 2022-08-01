@@ -37,6 +37,7 @@ const theme = {
     inputDefault: '#B2BBC0',
     inputFilled: '#566976',
     disableAura: '#98989B',
+    linkAura: '#5EE6D0',
 
     disabled: {
       opacity: 0.5,
