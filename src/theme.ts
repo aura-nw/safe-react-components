@@ -39,6 +39,8 @@ const theme = {
     disableAura: '#98989B',
     linkAura: '#5EE6D0',
     textAura: '#E6E7E8',
+    failAura: '#E65E5E',
+    successAura: '#5EE69D',
 
     disabled: {
       opacity: 0.5,
