@@ -41,6 +41,7 @@ const theme = {
     textAura: '#E6E7E8',
     failAura: '#E65E5E',
     successAura: '#5EE69D',
+    confirmationAura: '#E95454',
 
     disabled: {
       opacity: 0.5,
