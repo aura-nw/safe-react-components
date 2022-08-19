@@ -85,6 +85,8 @@ import assestAura from './images/assestAura';
 import coinAura from './images/coinAura';
 import settingsAura from './images/settingsAura';
 import transactionsAura from './images/transactionsAura';
+import stakingAura from './images/stakingAura';
+import votingAura from './images/votingAura';
 
 import { ThemeColors, ThemeIconSize } from '../../theme';
 
@@ -104,6 +106,8 @@ const StyledIcon = styled.span<{ color?: ThemeColors }>`
 
 const icons = {
   add,
+  stakingAura,
+  votingAura,
   addressbookAura,
   assestAura,
   coinAura,
